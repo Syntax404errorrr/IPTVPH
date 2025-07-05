@@ -4,7 +4,7 @@ Philippine based maintained IPTV list from various sources.
 
 LINK TO IPTV M3U:
 ```
-https://raw.githubusercontent.com/Syntax404errorrr/IPTVPH/refs/heads/main/Private.m3u8?token=GHSAT0AAAAAADG2HEIKT4MLFLL3QEO65OKA2DJFWNQ
+https://raw.githubusercontent.com/Syntax404errorrr/IPTVPH/refs/heads/main/Private.m3u8?token=GHSAT0AAAAAADG2HEIL7Y7N5HZUZM6MP6II2DJGAIQ
 ```
 
 Credits to all the sources of the working m3u links 
