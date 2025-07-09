@@ -1,91 +1,79 @@
 #EXTM3U
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", A2Z
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://commons.wikimedia.org/wiki/File:A2Z_Channel_11_Logo.png", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", ALJAZEERA
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://logos.fandom.com/wiki/Al_Jazeera_English?file=Aljazeera_eng.svg", ALJAZEERA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", American Idol
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://en.m.wikipedia.org/wiki/File:American_Idol_logo.svg", American Idol
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", BBC News Asia Pacific
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://images.seeklogo.com/logo-png/23/1/bbc-news-logo-png_seeklogo-239212.png", BBC News Asia Pacific
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", Bloomberg TV Asia
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Logo.png", Bloomberg TV Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", CCTN 47
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://en.wikipedia.org/wiki/Cebu_Catholic_Television_Network#/media/File:CCTN_Cebu_logo.png", CCTN 47
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", DZBB
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://commons.wikimedia.org/wiki/File:Super_Radyo_DZBB_594_logo.png", DZBB
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", EWTN Asia-Pacific
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://images.seeklogo.com/logo-png/5/1/ewtn-logo-png_seeklogo-50652.png", EWTN Asia-Pacific
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", INCTV
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://commons.wikimedia.org/wiki/File:INC_TV_New_Logo.png", INCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", Mindanow Network TV
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://commons.wikimedia.org/wiki/File:Radio_Mindanao_Network_(2014).png", Mindanow Network TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", MovieSphere
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://deadline.com/wp-content/uploads/2024/06/MovieSphere.jpg?w=681&h=383&crop=1", MovieSphere
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", Outdoor Channel
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://commons.wikimedia.org/wiki/File:Outdoor_Channel_logo_2007-2017.svg", Outdoor Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", Thrillers
+#EXTINF:-1 group-title="PH Channels" tvg-logo="https://images.seeklogo.com/logo-png/17/1/thriller-logo-png_seeklogo-175041.png", Thrillers
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", Travel Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
-#EXTINF:-1 group-title="PH Channels" tvg-logo="", TV5 Monde Pacifique
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
