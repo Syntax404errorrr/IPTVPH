@@ -25,11 +25,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="alltvph1" tvg-name="ALL TV #01" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 Local Channels",ALL TV
 http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="anc2" tvg-name="ANC HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 Local Channels",ANC HD (CON)
-http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 #EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="🇵🇭 Local Channels",ANC HD (TFC)
