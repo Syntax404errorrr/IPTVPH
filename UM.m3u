@@ -68,7 +68,7 @@ https://converse.nathcreqtives.com/1179/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",A2Z
+#EXTINF:-1 tvg-logo="https://imgur.com/a/n0eQZrE.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
