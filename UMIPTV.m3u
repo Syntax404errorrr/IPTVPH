@@ -646,7 +646,7 @@ https://converse.nathcreqtives.com/astro/1113/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 https://converse.nathcreqtives.com/astro/1114/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="1600" tvg-name="SuperSport [UHD]" tvg-logo="https://example.com/logos/astro-supersport.png" group-title="UnknownMods", SuperSport [UHD]
+#EXTINF:-1 tvg-id="1600" tvg-name="SuperSport [UHD]" tvg-logo="https://example.com/logos/astro-supersport.png" group-title="UnknownMods",SuperSport [UHD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -691,14 +691,14 @@ https://converse.nathcreqtives.com/astro/2305/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 https://converse.nathcreqtives.com/astro/2306/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="2308" tvg-name="Hua Hee Dai [HD]" tvg-logo="https://example.com/logos/astro-hua-hee-dai.png" group-title="UnknownMods", Hua Hee Dai [HD]
+#EXTINF:-1 tvg-id="2308" tvg-name="Hua Hee Dai [HD]" tvg-logo="https://example.com/logos/astro-hua-hee-dai.png" group-title="UnknownMods",Hua Hee Dai [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
 https://converse.nathcreqtives.com/astro/2308/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="2309" tvg-name="Vaanavil HD" tvg-logo="https://example.com/logos/astro-vaanavil.png" group-title="UnknownMods", Vaanavil HD
+#EXTINF:-1 tvg-id="2309" tvg-name="Vaanavil HD" tvg-logo="https://example.com/logos/astro-vaanavil.png" group-title="UnknownMods",Vaanavil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -740,21 +740,21 @@ https://converse.nathcreqtives.com/astro/2502/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
 https://converse.nathcreqtives.com/astro/2503/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="2504" tvg-name="Cricket [HD]" tvg-logo="https://example.com/logos/astro-cricket.png" group-title="UnknownMods", Cricket [HD]
+#EXTINF:-1 tvg-id="2504" tvg-name="Cricket [HD]" tvg-logo="https://example.com/logos/astro-cricket.png" group-title="UnknownMods",Cricket [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://converse.nathcreqtives.com/astro/2504/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="2505" tvg-name="Oasis [HD]" tvg-logo="https://example.com/logos/astro-oasis.png" group-title="UnknownMods", Oasis [HD]
+#EXTINF:-1 tvg-id="2505" tvg-name="Oasis [HD]" tvg-logo="https://example.com/logos/astro-oasis.png" group-title="UnknownMods",Oasis [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 https://converse.nathcreqtives.com/astro/2505/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="2506" tvg-name="Football [HD]" tvg-logo="https://example.com/logos/astro-football.png" group-title="UnknownMods", Football [HD]
+#EXTINF:-1 tvg-id="2506" tvg-name="Football [HD]" tvg-logo="https://example.com/logos/astro-football.png" group-title="UnknownMods",Football [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -873,7 +873,7 @@ https://converse.nathcreqtives.com/astro/5020/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
 https://converse.nathcreqtives.com/astro/5021/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="5025" tvg-name="Awani" tvg-logo="https://example.com/logos/astro-awani.png" group-title="UnknownMods", Awani
+#EXTINF:-1 tvg-id="5025" tvg-name="Awani" tvg-logo="https://example.com/logos/astro-awani.png" group-title="UnknownMods",Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -915,7 +915,7 @@ https://converse.nathcreqtives.com/astro/5052/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
 https://converse.nathcreqtives.com/astro/5053/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="5054" tvg-name="Showcase" tvg-logo="https://example.com/logos/astro-showcase.png" group-title="UnknownMods", Showcase
+#EXTINF:-1 tvg-id="5054" tvg-name="Showcase" tvg-logo="https://example.com/logos/astro-showcase.png" group-title="UnknownMods",Showcase
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -929,7 +929,7 @@ https://converse.nathcreqtives.com/astro/5054/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 https://converse.nathcreqtives.com/astro/5055/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="5057" tvg-name="Arena 2 [HD]" tvg-logo="https://example.com/logos/astro-arena2.png" group-title="UnknownMods", Arena 2 [HD]
+#EXTINF:-1 tvg-id="5057" tvg-name="Arena 2 [HD]" tvg-logo="https://example.com/logos/astro-arena2.png" group-title="UnknownMods",Arena 2 [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -964,7 +964,7 @@ https://converse.nathcreqtives.com/astro/5066/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 https://converse.nathcreqtives.com/astro/5067/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="5071" tvg-name="Tutor [HD]" tvg-logo="https://example.com/logos/astro-tutor.png" group-title="UnknownMods", Tutor [HD]
+#EXTINF:-1 tvg-id="5071" tvg-name="Tutor [HD]" tvg-logo="https://example.com/logos/astro-tutor.png" group-title="UnknownMods",Tutor [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
