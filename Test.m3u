@@ -90,10 +90,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 https://mc-h74zm2yvk9.bunny.run/127/dopamine/manifest.mpd
 
-#EXTINF:-1 tvg-logo=https://imgur.com/jrw31eo.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-logo="https://imgur.com/jrw31eo.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",KAPAMILYA CHANNEL
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="1109" tvg-logo="group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",ALIW TV
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://imgur.com/kYiVkq2.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",ALIW TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
