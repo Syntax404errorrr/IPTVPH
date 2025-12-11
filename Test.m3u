@@ -54,11 +54,11 @@ http://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=cocked&p=dd0abb52723d22ac
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vEOzfvg.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", GTV
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",GTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1143/manifest.mpd
+https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
 #EXTINF:-1 tvg-logo="https://imgur.com/eq0pRIB.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
