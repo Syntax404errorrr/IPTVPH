@@ -44,8 +44,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/flKo7E5.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",One News
-http://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-id="onenews_hd" tvg-logo="https://imgur.com/hDTPISJ.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", One News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XvwUSdY.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -65,11 +67,11 @@ https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/N7pAdUg.png" group-logo="https://i.imgur.com/jNO5leA.png" group-title="Local Channels 🇵🇭",ALL TV
+#EXTINF:-1 tvg-id="1179" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" roup-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",ALL TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1179/manifest.mpd
+https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2ATdTGd.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",TRUE TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -78,24 +80,24 @@ https://converse.nathcreqtives.com/1179/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",A2Z
+#EXTINF:-1 tvg-logo="https://imgur.com/wdoOH9U.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZL6qUiC.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", SOLARFLIX
+#EXTINF:-1 tvg-logo="https://imgur.com/ZL6qUiC.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",SOLARFLIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 https://mc-h74zm2yvk9.bunny.run/127/dopamine/manifest.mpd
 
-#EXTINF:-1 tvg-logo=https://imgur.com/jrw31eo.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭" ,KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-logo=https://imgur.com/jrw31eo.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",KAPAMILYA CHANNEL
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kYiVkq2.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",ALIW CHANNEL
+#EXTINF:-1 tvg-id="1109" tvg-logo="group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",ALIW TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1109/manifest.mpd
+https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4d4mCBE.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",BILYONARYO CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -104,15 +106,17 @@ https://converse.nathcreqtives.com/1109/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/oz4mqFb.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", NET 25
+#EXTINF:-1 tvg-id="1090" tvg-logo="https://imgur.com/oz4mqFb" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",NET 25
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://mc-h74zm2yvk9.bunny.run/17/dopamine/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1090/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Xxt7MT8.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", RJTV
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://imgur.com/Xxt7MT8.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",RJTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://mc-h74zm2yvk9.bunny.run/36/dopamine/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1159/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
 #EXTINF:-1 tvg-logo="https://imgur.com/b5ehKyd.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", PBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,7 +129,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1079/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
-#EXTINF:-1 tvg-id="1254" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",CINEMO
+#EXTINF:-1 tvg-id="1254" tvg-logo="https://imgur.com/mzY61Us.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",CINEMO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
