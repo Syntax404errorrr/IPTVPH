@@ -12,6 +12,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/EYQU1wY.jpg" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", SARI-SARI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+
 #EXTINF:-1 tvg-logo="https://imgur.com/J2qLiOl.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",PTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
@@ -31,11 +38,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/l88R7vY.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",GMA 7
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",GMA 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1093/manifest.mpd
+https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/flKo7E5.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭",One News
 http://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -106,13 +113,6 @@ https://mc-h74zm2yvk9.bunny.run/17/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 https://mc-h74zm2yvk9.bunny.run/36/dopamine/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://imgur.com/EYQU1wY.jpg" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", SARI-SARI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/b5ehKyd.png" group-logo="https://imgur.com/PE7M9Lf.png" group-title="Local Channels 🇵🇭", PBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
