@@ -633,13 +633,13 @@ https://fl1.moveonjoy.com/MTV_LIVE/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"bee1066160c0424696d9bf99ca0645e3":"f5b72bf3b89b9848de5616f37de040b7"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-name="Kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg" group-title="Action + Crime",Kix
+#EXTINF:-1 tvg-name="Kix" tvg-logo="https://imgur.com/hK7eVct.png" group-title="Action + Crime",Kix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a8d5712967cd495ca80fdc425bc61d6b":"f248c29525ed4c40cc39baeee9634735"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-name="Crime+Investigation" tvg-logo="https://www.crimeandinvestigation.nl/themes/custom/emea/images/logos/ci-logo.svg" group-title="Action + Crime",Crime+Investigation
+#EXTINF:-1 tvg-name="Crime+Investigation" tvg-logo="https://imgur.com/EnLETQI.png" group-title="Action + Crime",Crime+Investigation
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21e2843b561c4248b8ea487986a16d33":"db6bb638ccdfc1ad1a3e98d728486801"}
