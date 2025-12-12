@@ -622,7 +622,7 @@ https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVLIVEHD/default.mpd
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://imgur.com/itmNJ3a.png" group-title="Music",Vevo Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MTV Live (US)" tvg-logo="https://imgur.com/r4UrPC1.png" group-title="Music",MTV Live (US)
+#EXTINF:-1 tvg-name="MTV Live (US)" tvg-logo="https://imgur.com/2Jm0rf8.png" group-title="Music",MTV Live (US)
 https://fl1.moveonjoy.com/MTV_LIVE/manifest.mpd
 
 #ACTION + CRIME
