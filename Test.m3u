@@ -567,7 +567,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"d9ac48f5131641a789328257e778ad3a":"b6e67c37239901980c6e37e0607ceee6"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
 
-#EXTINF:-1 tvg-name="History" tvg-logo="https://imgur.com/undefined.png6" group-title="Infotainment",History
+#EXTINF:-1 tvg-name="History" tvg-logo="https://imgur.com/ZGY2Zk0.png" group-title="Infotainment",History
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a7724b7ca2604c33bb2e963a0319968a":"6f97e3e2eb2bade626e0281ec01d3675"}
@@ -575,13 +575,13 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index
 
 #LIFESTYLE + FOOD
 
-#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Asian_Food_Network_logo_2019_Gradient.svg" group-title="Lifestyle + Food",Asian Food Network
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://imgur.com/4Y5BSll.png" group-title="Lifestyle + Food",Asian Food Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1619db30b9ed42019abb760a0a3b5e7f":"5921e47fb290ae263291b851c0b4b6e4"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="/assets/fashion_tv_logo.svg" group-title="Lifestyle + Food",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://imgur.com/pjei9Mz.png" group-title="Lifestyle + Food",Fashion TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"971ebbe2d887476398e97c37e0c5c591":"472aa631b1e671070a4bf198f43da0c7"}
@@ -593,7 +593,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.
 #KODIPROP:inputstream.adaptive.license_key={"b7299ea0af8945479cd2f287ee7d530e":"b8ae7679cf18e7261303313b18ba7a14"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Lifestyle + Food",HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://imgur.com/3VwRqaO.png" group-title="Lifestyle + Food",HGTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f0e3ab943318471abc8b47027f384f5a":"13802a79b19cc3485d2257165a7ef62a"}
@@ -613,16 +613,16 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/
 #KODIPROP:inputstream.adaptive.license_key={"f40a52a3ac9b4702bdd5b735d910fd2f":"5ce1bc7f06b494c276252b4d13c90e51"}
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg" group-title="Music",MTV Live
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://imgur.com/PQRDqiQ.png" group-title="Music",MTV Live
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"acc4581a25ef0cd76f8fd7d826bb2d06":"bc006e72e9aab57aca8ae75a83e8f20e"}
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVLIVEHD/default.mpd
 
-#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="/assets/vevopop_logo.svg" group-title="Music",Vevo Pop
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://imgur.com/itmNJ3a.png" group-title="Music",Vevo Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MTV Live (US)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg" group-title="Music",MTV Live (US)
+#EXTINF:-1 tvg-name="MTV Live (US)" tvg-logo="https://imgur.com/r4UrPC1.png" group-title="Music",MTV Live (US)
 https://fl1.moveonjoy.com/MTV_LIVE/manifest.mpd
 
 #ACTION + CRIME
