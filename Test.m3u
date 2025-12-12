@@ -110,7 +110,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key={"13815d0fa026441ea7662b0c9de00bcf":"2d99a55743677c3879a068dd9c92f824"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/arirang_sd/default/index.mpd
 
-#EXTINF:-1 tvg-name="CNA" tvg-logo="/assets/cna_logo.svg" group-title="News",CNA
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://imgur.com/lUoM3Jp.png" group-title="News",CNA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b259df9987364dd3b778aa5d42cb9acd":"753e3dba96ab467e468269e7e33fb813"}
@@ -176,7 +176,7 @@ https://converse.nathcreqtives.com/1250/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key={"f6804251e90b4966889b7df94fdc621e":"55c3c014f2bd12d6bd62349658f24566"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_taptv_sd/default/index.mpd
 
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Entertainment",KBS World
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://imgur.com/nSteDH4.png" group-title="Entertainment",KBS World
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"22ff2347107e4871aa423bea9c2bd363":"c6e7ba2f48b3a3b8269e8bc360e60404"}
@@ -200,13 +200,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key={"fd5d928f5d974ca4983f6e9295dfe410":"3aaa001ddc142fedbb9d5557be43792f"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
 
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg" group-title="Entertainment",HITS
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://imgur.com/mtqoQgL.png" group-title="Entertainment",HITS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"dac605bc197e442c93f4f08595a95100":"975e27ffc1b7949721ee3ccb4b7fd3e5"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-name="HITS Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg" group-title="Entertainment",HITS Now
+#EXTINF:-1 tvg-name="HITS Now" tvg-logo="https://imgur.com/W90IuXN.png" group-title="Entertainment",HITS Now
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"14439a1b7afc4527bb0ebc51cf11cbc1":"92b0287c7042f271b266cc11ab7541f1"}
@@ -218,7 +218,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.m
 #KODIPROP:inputstream.adaptive.license_key={"cf861d26e7834166807c324d57df5119":"64a81e30f6e5b7547e3516bbf8c647d0"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
 
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Paramount_Network_%282024%29.svg" group-title="Entertainment",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://imgur.com/PaaxYnv.png" group-title="Entertainment",Paramount Network
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
@@ -234,7 +234,7 @@ https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 
 #MOVIES
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg" group-title="Movies",Cinema One
+#EXTINF:-1 tvg-logo="https://imgur.com/9oqulTU.png" group-title="Movies",Cinema One
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"58d0e56991194043b8fb82feb4db7276":"d68f41b59649676788889e19fb10d22c"}
@@ -274,7 +274,7 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"96701d297d1241e492d41c397631d857":"ca2931211c1a261f082a3a2c4fd9f91b"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
-#EXTINF:-1 tvg-logo="/assets/tvnmovies_pinoy_logo.svg" group-title="Movies",TVN Movies Pinoy
+#EXTINF:-1 tvg-logo="https://imgur.com/uTbF07Y.png" group-title="Movies",TVN Movies Pinoy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2e53f8d8a5e94bca8f9a1e16ce67df33":"3471b2464b5c7b033a03bb8307d9fa35"}
@@ -292,19 +292,19 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/i
 #KODIPROP:inputstream.adaptive.license_key={"d47ebabf7a21430b83a8c4b82d9ef6b1":"54c213b2b5f885f1e0290ee4131d425b"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/HBO_Family_%28Asia%29_logo.svg" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-logo="https://imgur.com/b5kFcVk.png" group-title="Movies",HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"872910c843294319800d85f9a0940607":"f79fd895b79c590708cf5e8b5c6263be"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/HBO_Hits_logo.svg" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-logo="https://imgur.com/F7vPUUT.png" group-title="Movies",HBO Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b04ae8017b5b4601a5a0c9060f6d5b7d":"a8795f3bdb8a4778b7e888ee484cc7a1"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/HBO_Signature_%28Asia%29_logo.svg" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-logo="https://imgur.com/QIu4D6i.png" group-title="Movies",HBO Signature
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a06ca6c275744151895762e0346380f5":"559da1b63eec77b5a942018f14d3f56f"}
@@ -342,61 +342,61 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
 #KODIPROP:inputstream.adaptive.license_key={"76dc29dd87a244aeab9e8b7c5da1e5f3":"95b2f2ffd4e14073620506213b62ac82"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 1
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"27059dc8b75841e7a511e67d5e069ae2":"b7217f85cb0a1dd7113ed307c363d0df"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 2
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2f3056cac18d4e31a59de39767042b03":"83728946b898141ae411572f9f5fce0d"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 3
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0c16d5962a22494db502b3453f891208":"acaed175b981b34ae9b5cb0130506854"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 4
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c3050cba95c945418efa3aedbc69cff7":"988e7fade0828273472e24545d0cfa4c"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 5
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eecc6d7ac3df439fb2b73fb38007cb82":"826c341a6fef4518cefd27ec85e8b274"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 6
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"02d5f086706e407e9343c040ac7fb5b8":"9d7e088bf7fffc9297ab3a02f0ce9a72"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 7
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"40bed7f7948e4e5792982cf5b7ee4d78":"1fbfd2e3be51aae857f2f24306e5fc41"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 8
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5a8dbf3b9c2c43079a40fb5d0068f9ef":"1778ac6e22527ee2efd6886d8d509c2d"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 9
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1c7b9a2af9ad4076b155f06269b6adc2":"ed6a8b11738cd27c0bee2d9e3fee178a"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Sports",Pilipinas Live 10
+#EXTINF:-1 tvg-logo="https://imgur.com/UlToGGU.png" group-title="Sports",Pilipinas Live 10
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"63055a8904644407a64a57874703f71e":"0fd611777d37a7ff8afce19d9cee2e91"}
