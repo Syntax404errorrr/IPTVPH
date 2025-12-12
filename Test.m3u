@@ -525,11 +525,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/
 #KODIPROP:inputstream.adaptive.license_key={"0bf00921bec94a65a124fba1ef52b1cd":"0f1488487cbe05e2badc3db53ae0f29f"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
-#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/28/Nick_Jr._%282023%2C_3D%29.png" group-title="Kids",Nick Jr.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bab5c11178b646749fbae87962bf5113":"f0fbb758cdeeaddfa3eae538856b4d72"}
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
+#EXTINF:-1 tvg-logo="https://imgur.com/3Gl6FuA.png?raw=true" group-title="Kids",Nick Jr. HD
+https://v17.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8?token=Gm8lknQZhslUzlroqUO21g&expires=1765133924&user_id=Tk1WRDlOVGViV3F0M3ZQTk5zbHEyNnFkUXZUcUJwM1BKRVl6MGNwVw==
 
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" group-title="Kids",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
