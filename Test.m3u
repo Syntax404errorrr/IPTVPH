@@ -1,5 +1,7 @@
 #EXTM3U
 
+#GENERAL
+
 #EXTINF:-1 tvg-name="Kapamilya Channel" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/7/74/Kapamilya_Channel_3D_Logo.png" group-title="General",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,6 +61,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c95ed4c44b0b4f7fa1c6ebbbbaab21a1":"47635b8e885e19f2ccbdff078c207058"}
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+
+#NEWS
 
 #EXTINF:-1 tvg-name="ANC" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png?ext=.png" group-title="News",ANC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -158,11 +162,13 @@ https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"fba5a720b4a541b286552899ba86e38b":"f63fa50423148bfcbaa58c91dfcffd0e"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd
 
-#EXTINF:-1 tvg-name="Jeepney TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="Entertainment",Jeepney TV
+#ENTERTAINMENT
+
+#EXTINF:-1 tvg-id="1250" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="Entertainment",Jeepney TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"90ea4079e02f418db7b170e8763e65f0":"1bfe2d166e31d03eee86ee568bd6c272"}
-https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1250/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiYXN0aWt3YW5nIiwiZXhwIjoxNzY1OTMwNjk1fQ.juVgrdzx8jr4pah7Xeosf5O_lu-8LrD4RCo8x41kiag
 
 #EXTINF:-1 tvg-name="Tap TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Entertainment",Tap TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -225,6 +231,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment",Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+
+#MOVIES
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg" group-title="Movies",Cinema One
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -314,9 +322,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/inde
 #KODIPROP:inputstream.adaptive.license_key={"40f019b86241d23ef075633fd7f1e927":"058dec845bd340178a388edd104a015e"}
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="/assets/studio_universal_logo.svg" group-title="Movies",Studio Universal
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/studiouniversal/manifest.mpd
+#SPORTS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="Sports",One Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -450,10 +456,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"84077d18bcf234a42de3745be106a87f":"aee3069c062ec8ee6bfdd32985f287ef"}
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
-#EXTINF:-1 tvg-logo="/assets/premier_football_logo.png" group-title="Sports",Premier Football
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Sports",Premier Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -482,151 +484,219 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
+#KIDS
+
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"92032b0e41a543fb9830751273b8debd":"03f8b65e2af785b10d6634735dbe6c11"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/1200px-Aniplus_logo.svg.png" group-title="Kids",Aniplus
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/1200px-Aniplus_logo.svg.png" group-title="Kids",Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/1200px-Cartoon_Network.svg.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/1200px-Cartoon_Network.svg.png" group-title="Kids",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a2d1f552ff9541558b3296b5a932136b":"cdd48fa884dc0c3a3f85aeebca13d444"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://cartoonito.wbtvd.com/cartoonito-logo.png" group-title="Kids",Cartoonito
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://cartoonito.wbtvd.com/cartoonito-logo.png" group-title="Kids",Cartoonito
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/CBeebies_logo_with_outline.svg/1200px-CBeebies_logo_with_outline.svg.png" group-title="Kids",CBeebies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/CBeebies_logo_with_outline.svg/1200px-CBeebies_logo_with_outline.svg.png" group-title="Kids",CBeebies
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 
-#EXTINF:-1 tvg-logo="https://dreamworks-asia.com/images/dwalogo.png" group-title="Kids",DreamWorks (Tagalized)
+#EXTINF:-1 tvg-name="DreamWorks (Tagalized)" tvg-logo="https://dreamworks-asia.com/images/dwalogo.png" group-title="Kids",DreamWorks (Tagalized)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"564b3b1c781043c19242c66e348699c5":"d3ad27d7fe1f14fb1a2cd5688549fbab"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://dreamworks-asia.com/images/dwalogo.png" group-title="Kids",DreamWorks
+#EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://dreamworks-asia.com/images/dwalogo.png" group-title="Kids",DreamWorks
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ab9645a2a0a47edbd65e8479c2b9669":"8cb209f1828431ce9b50b593d1f44079"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://a.storyblok.com/f/260537/512x256/3162ef8ee4/moonbug-logo.svg" group-title="Kids",Moonbug
+#EXTINF:-1 tvg-name="Moonbug" tvg-logo="https://a.storyblok.com/f/260537/512x256/3162ef8ee4/moonbug-logo.svg" group-title="Kids",Moonbug
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bf00921bec94a65a124fba1ef52b1cd":"0f1488487cbe05e2badc3db53ae0f29f"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/28/Nick_Jr._%282023%2C_3D%29.png" group-title="Kids",Nick Jr.
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/28/Nick_Jr._%282023%2C_3D%29.png" group-title="Kids",Nick Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bab5c11178b646749fbae87962bf5113":"f0fbb758cdeeaddfa3eae538856b4d72"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickjr/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" group-title="Kids",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9ce58f37576b416381b6514a809bfd8b":"f0fbb758cdeeaddfa3eae538856b4d72"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/98/ZooMoo_2020.svg" group-title="Kids",ZooMoo
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/98/ZooMoo_2020.svg" group-title="Kids",ZooMoo
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="Infotainment",DepEd TV
+#INFOTAINMENT
+
+#EXTINF:-1 tvg-name="DepEd TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="Infotainment",DepEd TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0f853706412b11edb8780242ac120002":"2157d6529d80a760f60a8b5350dbc4df"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="/assets/kc_logo.png" group-title="Infotainment",Knowledge Channel
+#EXTINF:-1 tvg-name="Knowledge Channel" tvg-logo="/assets/kc_logo.png" group-title="Infotainment",Knowledge Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ce3aa1c6ed6e4d08995d30cd9f2564a9":"db985332af2660c701d9c8f1bd187a95"}
 https://abslive.akamaized.net/dash/live/2028189/kc3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://tvup.ph/wp-content/uploads/2016/11/FOOTER-ICON.png" group-title="Infotainment",TVUP
+#EXTINF:-1 tvg-name="TVUP" tvg-logo="https://tvup.ph/wp-content/uploads/2016/11/FOOTER-ICON.png" group-title="Infotainment",TVUP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"83e813ccd4ca4837afd611037af02f63":"a97c515dbcb5dcbc432bbd09d15afd41"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/images/brands/2024-07/discovery-channel-logo-white.svg" group-title="Infotainment",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/images/brands/2024-07/discovery-channel-logo-white.svg" group-title="Infotainment",Discovery Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d9ac48f5131641a789328257e778ad3a":"b6e67c37239901980c6e37e0607ceee6"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_230,h_264,g_auto/v1/logo_4_zds74r?_a=BAVAZGID0" group-title="Infotainment",History
+#EXTINF:-1 tvg-name="History" tvg-logo="https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_230,h_264,g_auto/v1/logo_4_zds74r?_a=BAVAZGID0" group-title="Infotainment",History
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a7724b7ca2604c33bb2e963a0319968a":"6f97e3e2eb2bade626e0281ec01d3675"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Asian_Food_Network_logo_2019_Gradient.svg" group-title="Lifestyle + Food",Asian Food Network
+#LIFESTYLE + FOOD
+
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Asian_Food_Network_logo_2019_Gradient.svg" group-title="Lifestyle + Food",Asian Food Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1619db30b9ed42019abb760a0a3b5e7f":"5921e47fb290ae263291b851c0b4b6e4"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="/assets/fashion_tv_logo.svg" group-title="Lifestyle + Food",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="/assets/fashion_tv_logo.svg" group-title="Lifestyle + Food",Fashion TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"971ebbe2d887476398e97c37e0c5c591":"472aa631b1e671070a4bf198f43da0c7"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle + Food",Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Lifestyle + Food",Food Network
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b7299ea0af8945479cd2f287ee7d530e":"b8ae7679cf18e7261303313b18ba7a14"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Lifestyle + Food",HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Lifestyle + Food",HGTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f0e3ab943318471abc8b47027f384f5a":"13802a79b19cc3485d2257165a7ef62a"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/640px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle + Food",Travel Channel
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/640px-2018_Travel_Channel_logo.svg.png" group-title="Lifestyle + Food",Travel Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f3047fc13d454dacb6db4207ee79d3d3":"bdbd38748f51fc26932e96c9a2020839"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="Music",MYX
+#MUSIC
+
+#EXTINF:-1 tvg-name="MYX" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="Music",MYX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f40a52a3ac9b4702bdd5b735d910fd2f":"5ce1bc7f06b494c276252b4d13c90e51"}
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg" group-title="Music",MTV Live
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg" group-title="Music",MTV Live
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"acc4581a25ef0cd76f8fd7d826bb2d06":"bc006e72e9aab57aca8ae75a83e8f20e"}
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVLIVEHD/default.mpd
 
-#EXTINF:-1 tvg-logo="/assets/vevopop_logo.svg" group-title="Music",Vevo Pop
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="/assets/vevopop_logo.svg" group-title="Music",Vevo Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg" group-title="Music",MTV Live (US)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-name="MTV Live (US)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg" group-title="Music",MTV Live (US)
 https://fl1.moveonjoy.com/MTV_LIVE/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/TAP_ActionFlix_logo.png" group-title="Action + Crime",Tap Action Flix
+#ACTION + CRIME
+
+#EXTINF:-1 tvg-name="Tap Action Flix" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/TAP_ActionFlix_logo.png" group-title="Action + Crime",Tap Action Flix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bee1066160c0424696d9bf99ca0645e3":"f5b72bf3b89b9848de5616f37de040b7"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg" group-title="Action + Crime",Kix
+#EXTINF:-1 tvg-name="Kix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg" group-title="Action + Crime",Kix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a8d5712967cd495ca80fdc425bc61d6b":"f248c29525ed4c40cc39baeee9634735"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.crimeandinvestigation.nl/themes/custom/emea/images/logos/ci-logo.svg" group-title="Action + Crime",Crime+Investigation
+#EXTINF:-1 tvg-name="Crime+Investigation" tvg-logo="https://www.crimeandinvestigation.nl/themes/custom/emea/images/logos/ci-logo.svg" group-title="Action + Crime",Crime+Investigation
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"21e2843b561c4248b8ea487986a16d33":"db6bb638ccdfc1ad1a3e98d728486801"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Action + Crime",Rock Action
+#EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Action + Crime",Rock Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0f852fb8412b11edb8780242ac120002":"4cbc004d8c444f9f996db42059ce8178"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Action + Crime",Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Action + Crime",Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"928114ffb2394d14b5585258f70ed183":"a82edc340bc73447bac16cdfed0a4c62"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="Nature + Animal",Animal Planet
+#NATURE + ANIMALS
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="Nature + Animal",Animal Planet
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"436b69f987924fcbbc06d40a69c2799a":"c63d5b0d7e52335b61aeba4f6537d54d"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-YouTube-Stacked.png" group-title="Nature + Animal",BBC Earth
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-YouTube-Stacked.png" group-title="Nature + Animal",BBC Earth
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34ce95b60c424e169619816c5181aded":"0e2a2117d705613542618f58bf26fc8e"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Nature + Animal",Global Trekker
+#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Nature + Animal",Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5c26c24bce2942078cf6e35216632c2d":"445887a1c0832ff457263d8bcadc993f"}
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/globaltrekker/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://dioceseofmalolos.ph/wp-content/uploads/2017/12/TV-Maria-Logo-510x212.png" group-title="Religious",TV Maria
+#RELIGIOUS
+
+#EXTINF:-1 tvg-name="TV Maria" tvg-logo="https://dioceseofmalolos.ph/wp-content/uploads/2017/12/TV-Maria-Logo-510x212.png" group-title="Religious",TV Maria
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fa3998b9a4de40659725ebc5151250d6":"998f1294b122bbf1a96c1ddc0cbb229f"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="Religious",SMNI
+#EXTINF:-1 tvg-name="SMNI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="Religious",SMNI
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"31363232373835303932373135373431":"3250464a49584c376b53337579504f56"}
 https://converse.nathcreqtives.com/1155/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Reality",PBB All-Access Livestream
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#REALITY
+
+#EXTINF:-1 tvg-name="PBB All-Access Livestream" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Reality",PBB All-Access Livestream
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Reality",PBB Catch-Up Episode
+#EXTINF:-1 tvg-name="PBB Catch-Up Episode" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Reality",PBB Catch-Up Episode
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1331c900677b4219a18938d0430ee7ee":"0ffce86c99f7051b3ec63e09c6ce9aad"}
 https://abslive.akamaized.net/dash/live/2032648/event2/manifest.mpd
-
