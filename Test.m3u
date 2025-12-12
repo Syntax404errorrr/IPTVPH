@@ -426,13 +426,13 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key={"0b42be2664d7e811d04f3e504e0924c5":"ae24090123b8c72ac5404dc152847cb8"}
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="/assets/eurosport1_logo.svg" group-title="Sports",Eurosport 1
+#EXTINF:-1 tvg-logo="https://imgur.com/FbNng7x.png" group-title="Sports",Eurosport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"01a665d487aa4c1c898c9eb0ff1a21df":"a0b9df5f92e6b218ddb6aa40a2cd996d"}
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 
-#EXTINF:-1 tvg-logo="/assets/eurosport2_logo.svg" group-title="Sports",Eurosport 2
+#EXTINF:-1 tvg-logo="https://imgur.com/FbNng7x.png" group-title="Sports",Eurosport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"657707bbd1e240e08bd6969df27fef7c":"364e00581c1432f4175e4a2e8e0cd57e"}
@@ -444,7 +444,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"b26a662a10074eb0756404c8e90e765a":"76e376bd25f92bed939435d982f92d3f"}
 https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/NBA_TV_Philippines_White.svg" group-title="Sports",NBA TV Philippines
+#EXTINF:-1 tvg-logo="https://imgur.com/OIDROE5.png" group-title="Sports",NBA TV Philippines
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c5e51f41ceac48709d0bdcd9c13a4d88":"20b91609967e472c27040716ef6a8b9a"}
