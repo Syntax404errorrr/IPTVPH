@@ -127,7 +127,7 @@ https://converse.nathcreqtives.com/1252/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="1065" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="Local Channels 🇵🇭",HBO
+#EXTINF:-1 tvg-id="1065" tvg-logo="https://imgur.com/Ichpc91.png" group-title="Local Channels 🇵🇭",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
@@ -686,13 +686,6 @@ https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 
 # HD CHANNELS
 
-#EXTINF:-1 tvg-id="5171" tvg-name="Sports Plus" tvg-logo="https://imgur.com/jauZzsP.png" group-title="HD Channels",Sports Plus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-https://converse.nathcreqtives.com/astro/5171/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
-
 #EXTINF:-1 tvg-id="100" tvg-name="Celestial Classic Movies" tvg-logo="https://imgur.com/lR416dd.png" group-title="HD Channels",Celestial Classic Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -703,7 +696,14 @@ https://converse.nathcreqtives.com/astro/100/manifest.mpd?token=eyJhbGciOiJIUzI1
 #EXTINF:-1 tvg-id="403" tvg-name="CCTV4" tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="HD Channels",CCTV4
 https://converse.nathcreqtives.com/astro/403/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="408" tvg-name="beIN Sports 1 [HD]" tvg-logo="https://imgur.com/GgxK1QU.png" group-title="HD Channels",beIN Sports 1 [HD]
+#EXTINF:-1 tvg-id="5171" tvg-name="Sports Plus" tvg-logo="https://imgur.com/jauZzsP.png" group-title="HD Channels",Sports Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+https://converse.nathcreqtives.com/astro/5171/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
+
+#EXTINF:-1 tvg-id="408" tvg-name="beIN Sports 1 [HD]" tvg-logo="https://imgur.com/CPbzsME.png" group-title="HD Channels",beIN Sports 1 [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -912,7 +912,7 @@ https://converse.nathcreqtives.com/astro/2311/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
 https://converse.nathcreqtives.com/astro/2502/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="2503" tvg-name="CNN [HD]" tvg-logo="https://imgur.com/1fvxgKL" group-title="HD Channels",CNN [HD]
+#EXTINF:-1 tvg-id="2503" tvg-name="CNN [HD]" tvg-logo="https://imgur.com/1fvxgKL.png" group-title="HD Channels",CNN [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1108,7 +1108,7 @@ https://converse.nathcreqtives.com/astro/5051/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
 https://converse.nathcreqtives.com/astro/5052/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="2304" tvg-name="HBO" tvg-logo="https://imgur.com/EaTBHwq.png" group-title="HD Channels",HBO
+#EXTINF:-1 tvg-id="2304" tvg-name="HBO" tvg-logo="https://imgur.com/Ichpc91.png" group-title="HD Channels",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1289,7 +1289,7 @@ http://xxip25.top:8080/live/6JzCUm/867775/13381.m3u8
 #EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="ActionMAX (East)" tvg-logo="https://imgur.com/Mq3m2pk.png group-title="Movies Channel",ActionMAX (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/21013.m3u8
 
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax (East)" tvg-logo="https://imgur.com/b7mtJzn.png" group-title="Movies Channel",Cinemax (East) 
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax (East)" tvg-logo="https://imgur.com/6dW5VfW.png" group-title="Movies Channel",Cinemax (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/13380.m3u8
 
 #EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX (East)" tvg-logo="https://imgur.com/6A97vU1.png" group-title="Movies Channel",EPIX (East) 
@@ -1304,7 +1304,7 @@ http://xxip25.top:8080/live/6JzCUm/867775/12744.m3u8
 #EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX2 (East)" tvg-logo="https://imgur.com/IpzhlOh.png" group-title="Movies Channel",EPIX2 (East)
 http://xxip25.top:8080/live/6JzCUm/867775/12730.m3u8
 
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://imgur.com/WfIF0dQ.png" group-title="Movies Channel",HBO 
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://imgur.com/Ichpc91.png" group-title="Movies Channel",HBO 
 http://xxip25.top:8080/live/6JzCUm/867775/9264.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="https://imgur.com/bSLu9dU.png" group-title="Movies Channel",HBO 2
@@ -1331,7 +1331,7 @@ http://xxip25.top:8080/live/6JzCUm/867775/17776.m3u8
 #EXTINF:-1 tvg-id="moviemax.us" tvg-name="MovieMAX (East) " tvg-logo="https://imgur.com/3qeeBrL.png" group-title="Movies Channel",MovieMAX (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/13480.m3u8
 
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex (East)" tvg-logo=https://imgur.com/VHXqmVj.png" group-title="Movies Channel",MoviePlex (East)
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex (East)" tvg-logo="https://imgur.com/VHXqmVj.png" group-title="Movies Channel",MoviePlex (East)
 http://xxip25.top:8080/live/6JzCUm/867775/1829.m3u8
 
 #EXTINF:-1 tvg-id="outermax.us" tvg-name="Cinemax Outermax" tvg-logo="https://imgur.com/FD8Pwmw.png" group-title="Movies Channel",Cinemax Outermax
@@ -1355,10 +1355,7 @@ http://xxip25.top:8080/live/6JzCUm/867775/13481.m3u8
 #EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="Showtime Women (East) " tvg-logo="https://imgur.com/wgUqI9y.png" group-title="Movies Channel",Showtime Women (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/17778.m3u8
 
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema (East) " tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies Channel",Starz Cinema (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/17775.m3u8
-
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema (East) " tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies Channel",Starz Cinema (East) 
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema (East)" tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies Channel",Starz Cinema (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/9301.m3u8
 
 #EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz East" tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies Channel",Starz East
@@ -1378,10 +1375,6 @@ http://xxip25.top:8080/live/6JzCUm/867775/17774.m3u8
 
 # MOVIES 2025
 
-#EXTINF:-1 tvg-id="" tvg-name="9/11: The Day the World Stood Still (2025)" tvg-logo="" group-title="Movies 2025",9/11: The Day the World Stood Still (2025)
-http://tvmate.icu:8080/movie/awbCZ9/280249/226185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="82nd.Golden.Globe.Awards.2025.720p.WEBRip.x264.AAC-[YTS.MX]" tvg-logo="" group-title="Movies 2025",82nd.Golden.Globe.Awards.2025.720p.WEBRip.x264.AAC-[YTS.MX]
-http://tvmate.icu:8080/movie/awbCZ9/280249/226186.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alarum (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="Movies 2025",Alarum (2025)
 http://tvmate.icu:8080/movie/awbCZ9/280249/226187.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Scream (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rK9NrcUedJXTzPV9ajQyEsZYLN.jpg" group-title="Movies 2025",American Scream (2025)
@@ -1832,42 +1825,3 @@ http://tvmate.icu:8080/movie/awbCZ9/280249/227224.mp4
 http://tvmate.icu:8080/movie/awbCZ9/280249/227225.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Killer Is Calling (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGKjGdHZFFjmMjfR3noOyfL8azd.jpg" group-title="Movies 2025",The Killer Is Calling (2025)
 http://tvmate.icu:8080/movie/awbCZ9/280249/227226.mp4
-
-# ANIME
-
-#EXTM3U
-#EXTINF:-1 tvg-id="DemonSlayer" group-title="Anime", Demon Slayer
-http://103.145.12.56:8080/demonslayer/live.m3u8
-
-#EXTINF:-1 tvg-id="FairyTail" group-title="Anime", Fairy Tail
-http://198.251.81.236:8080/live/FairyTail/stream.m3u8
-
-#EXTINF:-1 tvg-id="TokyoGhoul" group-title="Anime", Tokyo Ghoul
-http://animevibes.live/tokyoghoul/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeathNote" group-title="Anime", Death Note
-http://198.251.81.236:8080/live/DeathNote/stream.m3u8
-
-#EXTINF:-1 tvg-id="AOT" group-title="Anime", Attack on Titan
-http://51.81.208.167:8080/aot/live.m3u8
-
-#EXTINF:-1 tvg-id="Bleach" group-title="Anime", Bleach
-http://198.251.81.236:8080/live/Bleach/stream.m3u8
-
-#EXTINF:-1 tvg-id="ChainsawMan" group-title="Anime", Chainsaw Man
-http://animehero.tv/chainsawman/stream.m3u8
-
-#EXTINF:-1 tvg-id="Gintama" group-title="Anime", Gintama
-http://otakustream.to/gintama/stream.m3u8
-
-#EXTINF:-1 tvg-id="Toonami" group-title="Anime", Toonami Loop
-http://freeviewanime.ddns.net:8000/stream/toonami.m3u8
-
-#EXTINF:-1 tvg-id="Digimon" group-title="Anime", Digimon
-http://live.animetv.online/digimon.m3u8
-
-#EXTINF:-1 tvg-id="CodeGeass" group-title="Anime", Code Geass
-http://198.251.81.236:8080/live/CodeGeass/stream.m3u8
-
-#EXTINF:-1 tvg-id="Naruto" group-title="Anime", Naruto Shippuden
-http://161.97.123.52:8080/anime/naruto/playlist.m3u8
