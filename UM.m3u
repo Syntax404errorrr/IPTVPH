@@ -1207,175 +1207,177 @@ https://converse.nathcreqtives.com/astro/5106/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 https://converse.nathcreqtives.com/astro/2701/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-# MOVIES
+# MOVIES CHANNEL
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 1
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 1
 http://fortv.cc:8080/38871863/38871863/119420
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 2
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 2
 http://fortv.cc:8080/38871863/38871863/119421
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 3
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 3
 http://fortv.cc:8080/38871863/38871863/119422
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 4
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 4
 http://fortv.cc:8080/38871863/38871863/119423
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 5
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 5
 http://fortv.cc:8080/38871863/38871863/119424
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 6
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 6
 http://fortv.cc:8080/38871863/38871863/119425
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 7
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 7
 http://fortv.cc:8080/38871863/38871863/119427
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 8
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 8
 http://fortv.cc:8080/38871863/38871863/119431
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 9
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 9
 http://fortv.cc:8080/38871863/38871863/119432
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 10
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 10
 http://fortv.cc:8080/38871863/38871863/119433
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 11
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 11
 http://fortv.cc:8080/38871863/38871863/119434
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 12
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 12
 http://fortv.cc:8080/38871863/38871863/119435
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 13
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 13
 http://fortv.cc:8080/38871863/38871863/119436
 
-#EXTINF:-1 tvg-logo="https://basti.clan.su/tv.png" group-title="Movies",Cinebox 14
+#EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies",Cinebox 14
 http://fortv.cc:8080/38871863/38871863/119437
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="Movies",UK MOVIES: SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name=": SKY CINEMA DRAMA" tvg-logo="https://imgur.com/JWuzrWM.png" group-title="Movies",: SKY CINEMA DRAMA
 http://xxip25.top:8080/live/6JzCUm/867775/35251.m3u8
 
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="Movies",UK Sky Cinema Scifi & Horror FHD  
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD" tvg-logo="https://imgur.com/e1R4Zwo.png" group-title="Movies",UK Sky Cinema Scifi & Horror FHD  
 http://xxip25.top:8080/live/6JzCUm/867775/35248.m3u8
 
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="Movies",UK MOVIES: SKY COMEDY
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SKY COMEDY" tvg-logo="https://imgur.com/Ulb6wqt.png" group-title="Movies",SKY COMEDY
 http://xxip25.top:8080/live/6JzCUm/867775/35253.m3u8
 
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="Movies",UK MOVIES: SKY CRIME THRILLER
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CRIME THRILLER" tvg-logo="https://imgur.com/zwXCt3y.png" group-title="Movies",SKY CRIME THRILLER
 http://xxip25.top:8080/live/6JzCUm/867775/35252.m3u8
 
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="Movies",UK MOVIES: SKY GREATS
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY GREATS" tvg-logo="https://imgur.com/AWIGykT.png" group-title="Movies",: SKY GREATS
 http://xxip25.top:8080/live/6JzCUm/867775/35249.m3u8
 
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="Movies",UK-Sky Cinema Premier
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premier" tvg-logo="https://imgur.com/ntmkedl.png" group-title="Movies",Sky Cinema Premier
 http://xxip25.top:8080/live/6JzCUm/867775/35256.m3u8
 
-#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD " tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="Movies",US SONY Movies FHD 
+#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY Movies FHD" tvg-logo="https://imgur.com/MM7OjSR.png" group-title="Movies",SONY Movies FHD 
 http://xxip25.top:8080/live/6JzCUm/867775/2214.m3u8
 
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="Movies",US Lifetime Movies 
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movies" tvg-logo="https://imgur.com/e80k6fg.png" group-title="Movies",Lifetime Movies 
 http://xxip25.top:8080/live/6JzCUm/867775/20863.m3u8
 
-#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US STARZ ENCORE Black
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE Black" tvg-logo="https://imgur.com/3bDqH4j.png" group-title="Movies",STARZ ENCORE Black
 http://xxip25.top:8080/live/6JzCUm/867775/16141.m3u8
 
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",USA:  Showtime NEXT
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="Showtime NEXT" tvg-logo="https://imgur.com/uEgy1i5.png" group-title="Movies",Showtime NEXT
 http://xxip25.top:8080/live/6JzCUm/867775/9316.m3u8
 
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",USA:  STARZ EDGE 
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="https://imgur.com/9Q6YfNf.png" group-title="Movies",STARZ EDGE 
 http://xxip25.top:8080/live/6JzCUm/867775/16143.m3u8
 
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Movies",US 5 StarMax
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="5 StarMax" tvg-logo="https://imgur.com/dWmD4ld.png" group-title="Movies",5 StarMax
 http://xxip25.top:8080/live/6JzCUm/867775/13381.m3u8
 
-#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East) " tvg-logo="" group-title="Movies",US ActionMAX (East) 
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="ActionMAX (East)" tvg-logo="https://imgur.com/Mq3m2pk.png group-title="Movies",ActionMAX (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/21013.m3u8
 
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",US Cinemax (East) 
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax (East)" tvg-logo="https://imgur.com/b7mtJzn.png" group-title="Movies",Cinemax (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/13380.m3u8
 
-#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",US EPIX (East) 
+#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX (East)" tvg-logo="https://imgur.com/6A97vU1.png" group-title="Movies",EPIX (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/13214.m3u8
 
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="Movies",US Epix Drive IN (S)
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="Epix Drive IN" tvg-logo="https://imgur.com/Mk01dMi.png" group-title="Movies",Epix Drive IN
 http://xxip25.top:8080/live/6JzCUm/867775/14193.m3u8
 
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="Movies",USA: Epix Hits
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="Epix Hits" tvg-logo="https://imgur.com/E8TDYJK.png" group-title="Movies",Epix Hits
 http://xxip25.top:8080/live/6JzCUm/867775/12744.m3u8
 
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",US EPIX2 (East)
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX2 (East)" tvg-logo="https://imgur.com/IpzhlOh.png" group-title="Movies",EPIX2 (East)
 http://xxip25.top:8080/live/6JzCUm/867775/12730.m3u8
 
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",US HBO 
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://imgur.com/WfIF0dQ.png" group-title="Movies",HBO 
 http://xxip25.top:8080/live/6JzCUm/867775/9264.m3u8
 
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",US HBO 2 (A)
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="https://imgur.com/bSLu9dU.png" group-title="Movies",HBO 2
 http://xxip25.top:8080/live/6JzCUm/867775/9816.m3u8
 
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="Movies",US HBO Comedy (East) 
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy (East)" tvg-logo="https://imgur.com/mtqlp9d.png" group-title="Movies",HBO Comedy (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/17773.m3u8
 
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",US HBO Family (East) 
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO Family (East)" tvg-logo="https://imgur.com/yFQSEIR.png" group-title="Movies",HBO Family (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/17772.m3u8
 
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="Movies",US HBO SIGNATURE (East) 
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE (East)" tvg-logo="https://imgur.com/QIu4D6i.png" group-title="Movies",HBO SIGNATURE (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/9266.m3u8
 
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",US HBO Zone (East) 
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone (East)" tvg-logo="https://imgur.com/YY7M8cM.png" group-title="Movies",HBO Zone (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/9265.m3u8
 
-#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="Movies",US HDNET MOVIES 
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDNET MOVIES" tvg-logo="https://imgur.com/8XKFQkR.png" group-title="Movies",HDNET MOVIES 
 http://xxip25.top:8080/live/6JzCUm/867775/16265.m3u8
 
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",US More Max 
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="More Max" tvg-logo="https://imgur.com/nxha4It.png" group-title="Movies",More Max 
 http://xxip25.top:8080/live/6JzCUm/867775/17776.m3u8
 
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US MovieMAX (East) " tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="Movies",US MovieMAX (East) 
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="MovieMAX (East) " tvg-logo="https://imgur.com/3qeeBrL.png" group-title="Movies",MovieMAX (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/13480.m3u8
 
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="Movies",US MoviePlex (East)
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex (East)" tvg-logo=https://imgur.com/VHXqmVj.png" group-title="Movies",MoviePlex (East)
 http://xxip25.top:8080/live/6JzCUm/867775/1829.m3u8
 
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="Movies",US Cinemax Outermax (X)
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="Cinemax Outermax" tvg-logo="https://imgur.com/FD8Pwmw.png" group-title="Movies",Cinemax Outermax
 http://xxip25.top:8080/live/6JzCUm/867775/21012.m3u8
 
-#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) " tvg-logo="" group-title="Movies",US RetroPlex (East) 
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RetroPlex (East) " tvg-logo="https://imgur.com/sLYXXX6.png" group-title="Movies",RetroPlex (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/66379.m3u8
 
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="Movies",US Showtime East 
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime East" tvg-logo="https://imgur.com/6l8mJJN.png" group-title="Movies",Showtime East 
 http://xxip25.top:8080/live/6JzCUm/867775/46214.m3u8
 
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="Movies",US Showtime 2 (East) (H)
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="Showtime 2 (East)" tvg-logo="https://imgur.com/6l8mJJN.png" group-title="Movies",Showtime 2 (East)
 http://xxip25.top:8080/live/6JzCUm/867775/13219.m3u8
 
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",US Showtime Extreme (East) (SP)
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="Showtime Extreme (East)" tvg-logo="https://imgur.com/2SGHMdG.png" group-title="Movies",Showtime Extreme (East)
 http://xxip25.top:8080/live/6JzCUm/867775/13220.m3u8
 
-#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="Movies",US Showtime Family Zone (East) 
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="Showtime Family Zone (East) " tvg-logo="https://imgur.com/wgUqI9y.png" group-title="Movies",Showtime Family Zone (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/13481.m3u8
 
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) " tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="Movies",US Showtime Women (East) 
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="Showtime Women (East) " tvg-logo="https://imgur.com/wgUqI9y.png" group-title="Movies",Showtime Women (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/17778.m3u8
 
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US Starz Cinema (East) 
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema (East) " tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies",Starz Cinema (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/17775.m3u8
 
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US Starz Cinema (East) 
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema (East) " tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies",Starz Cinema (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/9301.m3u8
 
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US Starz East (S)
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz East" tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies",Starz East
 http://xxip25.top:8080/live/6JzCUm/867775/9299.m3u8
 
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies",US Starz Encore Westerns (East) 
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="Starz Encore Westerns (East)" tvg-logo="https://imgur.com/z7wJ0ft.png" group-title="Movies",Starz Encore Westerns (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/16263.m3u8
 
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US Starz in Black (East) 
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="Starz in Black (East)" tvg-logo="https://imgur.com/z3AqECW.png" group-title="Movies",Starz in Black (East) 
 http://xxip25.top:8080/live/6JzCUm/867775/17779.m3u8
 
-#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US Starz West (S)
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="Starz West" tvg-logo="https://imgur.com/6KHyFTm.png" group-title="Movies",Starz West
 http://xxip25.top:8080/live/6JzCUm/867775/21091.m3u8
 
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",US ThrillerMax (East)
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="ThrillerMax (East)" tvg-logo="https://imgur.com/qsFZgxy.png" group-title="Movies",ThrillerMax (East)
 http://xxip25.top:8080/live/6JzCUm/867775/17774.m3u8
+
+#MOVIES 2025
 
 #EXTINF:-1 tvg-id="" tvg-name="9/11: The Day the World Stood Still (2025)" tvg-logo="" group-title="Movies 2025",9/11: The Day the World Stood Still (2025)
 http://tvmate.icu:8080/movie/awbCZ9/280249/226185.mp4
