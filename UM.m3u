@@ -832,7 +832,7 @@ https://converse.nathcreqtives.com/astro/2101/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
 https://converse.nathcreqtives.com/astro/2110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="2111" tvg-name="Crime & Investigation" tvg-logo="https://imgur.com/vvX9fCs.png" group-title="HD Channels",Crime & Investigation
+#EXTINF:-1 tvg-id="2111" tvg-name="Crime & Investigation" tvg-logo="https://imgur.com/2aCUY6B.png" group-title="HD Channels",Crime & Investigation
 https://converse.nathcreqtives.com/astro/2111/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
 #EXTINF:-1 tvg-id="2303" tvg-name="AXN [HD]" tvg-logo="https://imgur.com/Tzuaj5P.png" group-title="HD Channels",AXN [HD]
@@ -1003,7 +1003,7 @@ https://converse.nathcreqtives.com/astro/2604/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 https://converse.nathcreqtives.com/astro/2605/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="2611" tvg-name="Colors Hindi [HD]" tvg-logo=https://imgur.com/TzuzuS4.png" group-title="HD Channels",Colors Hindi [HD]
+#EXTINF:-1 tvg-id="2611" tvg-name="Colors Hindi [HD]" tvg-logo="https://imgur.com/TzuzuS4.png" group-title="HD Channels",Colors Hindi [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1073,7 +1073,7 @@ https://converse.nathcreqtives.com/astro/5020/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
 https://converse.nathcreqtives.com/astro/5021/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="5025" tvg-name="Awani" tvg-logo="https://imgur.com/undefined.png" group-title="HD Channels",Awani
+#EXTINF:-1 tvg-id="5025" tvg-name="Awani" tvg-logo="https://imgur.com/EzUwyIg.png" group-title="HD Channels",Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
