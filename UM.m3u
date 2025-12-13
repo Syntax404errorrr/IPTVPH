@@ -517,18 +517,13 @@ https://converse.nathcreqtives.com/1175/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1177/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 group-title="Local Channels 🇵🇭",Heart Of Asia
+#EXTINF:-1 tvg-logo="https://imgur.com/utQVpXP.png" group-title="Local Channels 🇵🇭",Heart Of Asia
 http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 group-title="Local Channels 🇵🇭",I Heart Movies
+#EXTINF:-1 tvg-logo="https://imgur.com/UjJsVvU.png" group-title="Local Channels 🇵🇭",I Heart Movies
 http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="5171" tvg-name="Sports Plus" tvg-logo="https://imgur.com/jauZzsP.png" group-title="HD Channels",Sports Plus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-https://converse.nathcreqtives.com/astro/5171/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
+# SPORTS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="Sports",One Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -689,6 +684,15 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png" group-title="Sports",UFCTV
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+
+# HD CHANNELS
+
+#EXTINF:-1 tvg-id="5171" tvg-name="Sports Plus" tvg-logo="https://imgur.com/jauZzsP.png" group-title="HD Channels",Sports Plus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+https://converse.nathcreqtives.com/astro/5171/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
 #EXTINF:-1 tvg-id="100" tvg-name="Celestial Classic Movies" tvg-logo="https://imgur.com/lR416dd.png" group-title="HD Channels",Celestial Classic Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
