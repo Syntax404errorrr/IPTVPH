@@ -79,7 +79,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-name="PBB All-Access Livestream" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Local Channels 🇵🇭,PBB All-Access Livestream
+#EXTINF:-1 tvg-name="PBB All-Access Livestream" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Local Channels 🇵🇭",PBB All-Access Livestream
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Local Channels 🇵🇭", Bilyonaryo Channel
@@ -1299,9 +1299,6 @@ http://xxip25.top:8080/live/6JzCUm/867775/17779.m3u8
 
 #EXTINF:-1 tvg-id="starzwest.us" tvg-name="Starz West" tvg-logo="https://imgur.com/6KHyFTm.png" group-title="Movies Channel",Starz West
 http://xxip25.top:8080/live/6JzCUm/867775/21091.m3u8
-
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="ThrillerMax (East)" tvg-logo="https://imgur.com/qsFZgxy.png" group-title="Movies Channel",ThrillerMax (East)
-http://xxip25.top:8080/live/6JzCUm/867775/17774.m3u8
 
 # MOVIES 2025
 
