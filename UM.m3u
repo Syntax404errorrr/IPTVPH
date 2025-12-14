@@ -693,9 +693,6 @@ https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
 https://converse.nathcreqtives.com/astro/100/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
 
-#EXTINF:-1 tvg-id="403" tvg-name="CCTV4" tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="HD Channels",CCTV4
-https://converse.nathcreqtives.com/astro/403/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duIiwiZXhwIjoxNzY2ODk0Njc0fQ.L7te-ygUa5BivVmVEfh308hsOE8NbaOggNG056kL-EU
-
 #EXTINF:-1 tvg-id="5171" tvg-name="Sports Plus" tvg-logo="https://imgur.com/jauZzsP.png" group-title="HD Channels",Sports Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1250,7 +1247,7 @@ http://fortv.cc:8080/38871863/38871863/119436
 #EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies Channel",Cinebox 14
 http://fortv.cc:8080/38871863/38871863/119437
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name=": SKY CINEMA DRAMA" tvg-logo="https://imgur.com/JWuzrWM.png" group-title="Movies Channel",: SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://imgur.com/JWuzrWM.png" group-title="Movies Channel",SKY CINEMA DRAMA
 http://xxip25.top:8080/live/6JzCUm/867775/35251.m3u8
 
 #EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD" tvg-logo="https://imgur.com/e1R4Zwo.png" group-title="Movies Channel",UK Sky Cinema Scifi & Horror FHD  
@@ -1262,7 +1259,7 @@ http://xxip25.top:8080/live/6JzCUm/867775/35253.m3u8
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CRIME THRILLER" tvg-logo="https://imgur.com/zwXCt3y.png" group-title="Movies Channel",SKY CRIME THRILLER
 http://xxip25.top:8080/live/6JzCUm/867775/35252.m3u8
 
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY GREATS" tvg-logo="https://imgur.com/AWIGykT.png" group-title="Movies Channel",: SKY GREATS
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY GREATS" tvg-logo="https://imgur.com/AWIGykT.png" group-title="Movies Channel",SKY GREATS
 http://xxip25.top:8080/live/6JzCUm/867775/35249.m3u8
 
 #EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premier" tvg-logo="https://imgur.com/ntmkedl.png" group-title="Movies Channel",Sky Cinema Premier
