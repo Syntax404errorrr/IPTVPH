@@ -48,6 +48,23 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-id="GMA" tvg-logo="https://imgur.com/l88R7vY.png" group-title="Local Channels 🇵🇭", GMA
+#EXT-X-VERSION:6
+#EXT-X-MEDIA-SEQUENCE:16
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-X-TARGETDURATION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:6.00000000,
+stream00011.ts?uid=3187024255&u=honortv&p=b69f5a41f79712041caed2b676cb8c40148bce33eddb3472c786c97a557c0793
+#EXTINF:6.00000000,
+stream00012.ts?uid=3187024255&u=honortv&p=b69f5a41f79712041caed2b676cb8c40148bce33eddb3472c786c97a557c0793
+#EXTINF:6.00000000,
+stream00013.ts?uid=3187024255&u=honortv&p=b69f5a41f79712041caed2b676cb8c40148bce33eddb3472c786c97a557c0793
+#EXTINF:6.00000000,
+stream00014.ts?uid=3187024255&u=honortv&p=b69f5a41f79712041caed2b676cb8c40148bce33eddb3472c786c97a557c0793
+#EXTINF:6.00000000,
+stream00015.ts?uid=3187024255&u=honortv&p=b69f5a41f79712041caed2b676cb8c40148bce33eddb3472c786c97a557c0793
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Local Channels 🇵🇭", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
