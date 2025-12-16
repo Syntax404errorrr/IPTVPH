@@ -49,6 +49,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="GMA" tvg-logo="https://imgur.com/l88R7vY.png" group-title="Local Channels 🇵🇭", GMA
+https://stream.honotvph.42web.io/stream/live/gma/stream.m3u8?uid=3720396090&u=honortv&p=b69f5a41f79712041caed2b676cb8c40148bce33eddb3472c786c97a557c0793
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Local Channels 🇵🇭", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
