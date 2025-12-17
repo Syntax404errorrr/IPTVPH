@@ -1756,9 +1756,6 @@ http://tvmate.icu:8080/movie/awbCZ9/280249/227225.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Killer Is Calling (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGKjGdHZFFjmMjfR3noOyfL8azd.jpg" group-title="Movies 2025",The Killer Is Calling (2025)
 http://tvmate.icu:8080/movie/awbCZ9/280249/227226.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="All Movies" tvg-logo="https://imgur.com/6KHyFTm.png" group-title="1000 Movies",All Movies
-http://144.76.76.248:8090/get.php?username=newmovie&password=mNhjikYxc&type=m3u_plus%C3%B9
-
 **********FM Radio**********
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
