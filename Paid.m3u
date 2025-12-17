@@ -58,6 +58,9 @@ https://stream.honotvph.42web.io/stream/live/gma/stream.m3u8?uid=3720396090&u=ho
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://imgur.com/JUeIAXr.png" group-title="Local Channels 🇵🇭", GTV
+https://converge.vingt.qzz.io/27/dopamine/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Local Channels 🇵🇭", IBC 13
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
