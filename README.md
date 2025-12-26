@@ -1,2 +1,0 @@
-# PH IPTV
-Philippines IPTV
