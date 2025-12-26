@@ -34,7 +34,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="GMA" tvg-logo="https://imgur.com/l88R7vY" group-title="Local Channels 🇵🇭",GMA
-https://phdigi.com/gma
+https://gma.mikuy30.dpdns.org/7/gma7.mpd
 
 #EXTINF:-1 tvg-id="rptv" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/rptv%20logo%20final-02.png" group-title="Local Channels 🇵🇭",RPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
