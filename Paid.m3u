@@ -61,7 +61,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://imgur.com/JUeIAXr.png" group-title="Local Channels 🇵🇭", GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
-https://converge.vingt.qzz.io/27/dopamine/manifest.mpd
+https://mc-c8hangg503.bunny.run/27/dopamine/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Local Channels 🇵🇭", IBC 13
 #KODIPROP:inputstreamaddon=inputstream.adaptive
