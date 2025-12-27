@@ -1061,6 +1061,11 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"63055a8904644407a64a57874703f71e":"0fd611777d37a7ff8afce19d9cee2e91"}
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 
+#EXTINF:-1 tvg-name="PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="Sports",PPTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1187,125 +1192,64 @@ http://fortv.cc:8080/38871863/38871863/119436
 #EXTINF:-1 tvg-logo="https://imgur.com/PEyMzOo.png" group-title="Movies Channel",Cinebox 14
 http://fortv.cc:8080/38871863/38871863/119437
 
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://imgur.com/JWuzrWM.png" group-title="Movies Channel",SKY CINEMA DRAMA
-http://xxip25.top:8080/live/6JzCUm/867775/35251.m3u8
+# VIVAMAX
 
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD" tvg-logo="https://imgur.com/e1R4Zwo.png" group-title="Movies Channel",UK Sky Cinema Scifi & Horror FHD  
-http://xxip25.top:8080/live/6JzCUm/867775/35248.m3u8
+########## Vivamax ##########
 
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SKY COMEDY" tvg-logo="https://imgur.com/Ulb6wqt.png" group-title="Movies Channel",SKY COMEDY
-http://xxip25.top:8080/live/6JzCUm/867775/35253.m3u8
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAXdlnjNuTDI1i9Z56VkCI237sdN8e1GEiA&s"
 
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="SKY CRIME THRILLER" tvg-logo="https://imgur.com/zwXCt3y.png" group-title="Movies Channel",SKY CRIME THRILLER
-http://xxip25.top:8080/live/6JzCUm/867775/35252.m3u8
-
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY GREATS" tvg-logo="https://imgur.com/AWIGykT.png" group-title="Movies Channel",SKY GREATS
-http://xxip25.top:8080/live/6JzCUm/867775/35249.m3u8
-
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premier" tvg-logo="https://imgur.com/ntmkedl.png" group-title="Movies Channel",Sky Cinema Premier
-http://xxip25.top:8080/live/6JzCUm/867775/35256.m3u8
-
-#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY Movies FHD" tvg-logo="https://imgur.com/MM7OjSR.png" group-title="Movies Channel",SONY Movies FHD 
-http://xxip25.top:8080/live/6JzCUm/867775/2214.m3u8
-
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movies" tvg-logo="https://imgur.com/e80k6fg.png" group-title="Movies Channel",Lifetime Movies 
-http://xxip25.top:8080/live/6JzCUm/867775/20863.m3u8
-
-#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE Black" tvg-logo="https://imgur.com/3bDqH4j.png" group-title="Movies Channel",STARZ ENCORE Black
-http://xxip25.top:8080/live/6JzCUm/867775/16141.m3u8
-
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="Showtime NEXT" tvg-logo="https://imgur.com/uEgy1i5.png" group-title="Movies Channel",Showtime NEXT
-http://xxip25.top:8080/live/6JzCUm/867775/9316.m3u8
-
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="https://imgur.com/9Q6YfNf.png" group-title="Movies Channel",STARZ EDGE 
-http://xxip25.top:8080/live/6JzCUm/867775/16143.m3u8
-
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="5 StarMax" tvg-logo="https://imgur.com/dWmD4ld.png" group-title="Movies Channel",5 StarMax
-http://xxip25.top:8080/live/6JzCUm/867775/13381.m3u8
-
-#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="ActionMAX (East)" tvg-logo="https://imgur.com/Mq3m2pk.png group-title="Movies Channel",ActionMAX (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/21013.m3u8
-
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="Cinemax (East)" tvg-logo="https://imgur.com/6dW5VfW.png" group-title="Movies Channel",Cinemax (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/13380.m3u8
-
-#EXTINF:-1 tvg-id="epix.us" tvg-name="EPIX (East)" tvg-logo="https://imgur.com/6A97vU1.png" group-title="Movies Channel",EPIX (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/13214.m3u8
-
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="Epix Drive IN" tvg-logo="https://imgur.com/Mk01dMi.png" group-title="Movies Channel",Epix Drive IN
-http://xxip25.top:8080/live/6JzCUm/867775/14193.m3u8
-
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="Epix Hits" tvg-logo="https://imgur.com/E8TDYJK.png" group-title="Movies Channel",Epix Hits
-http://xxip25.top:8080/live/6JzCUm/867775/12744.m3u8
-
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX2 (East)" tvg-logo="https://imgur.com/IpzhlOh.png" group-title="Movies Channel",EPIX2 (East)
-http://xxip25.top:8080/live/6JzCUm/867775/12730.m3u8
-
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://imgur.com/Ichpc91.png" group-title="Movies Channel",HBO 
-http://xxip25.top:8080/live/6JzCUm/867775/9264.m3u8
-
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2" tvg-logo="https://imgur.com/bSLu9dU.png" group-title="Movies Channel",HBO 2
-http://xxip25.top:8080/live/6JzCUm/867775/9816.m3u8
-
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO Comedy (East)" tvg-logo="https://imgur.com/mtqlp9d.png" group-title="Movies Channel",HBO Comedy (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/17773.m3u8
-
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO Family (East)" tvg-logo="https://imgur.com/yFQSEIR.png" group-title="Movies Channel",HBO Family (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/17772.m3u8
-
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE (East)" tvg-logo="https://imgur.com/QIu4D6i.png" group-title="Movies Channel",HBO SIGNATURE (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/9266.m3u8
-
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO Zone (East)" tvg-logo="https://imgur.com/YY7M8cM.png" group-title="Movies Channel",HBO Zone (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/9265.m3u8
-
-#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDNET MOVIES" tvg-logo="https://imgur.com/8XKFQkR.png" group-title="Movies Channel",HDNET MOVIES 
-http://xxip25.top:8080/live/6JzCUm/867775/16265.m3u8
-
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="More Max" tvg-logo="https://imgur.com/nxha4It.png" group-title="Movies Channel",More Max 
-http://xxip25.top:8080/live/6JzCUm/867775/17776.m3u8
-
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="MovieMAX (East) " tvg-logo="https://imgur.com/3qeeBrL.png" group-title="Movies Channel",MovieMAX (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/13480.m3u8
-
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex (East)" tvg-logo="https://imgur.com/VHXqmVj.png" group-title="Movies Channel",MoviePlex (East)
-http://xxip25.top:8080/live/6JzCUm/867775/1829.m3u8
-
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="Cinemax Outermax" tvg-logo="https://imgur.com/FD8Pwmw.png" group-title="Movies Channel",Cinemax Outermax
-http://xxip25.top:8080/live/6JzCUm/867775/21012.m3u8
-
-#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RetroPlex (East) " tvg-logo="https://imgur.com/sLYXXX6.png" group-title="Movies Channel",RetroPlex (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/66379.m3u8
-
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime East" tvg-logo="https://imgur.com/6l8mJJN.png" group-title="Movies Channel",Showtime East 
-http://xxip25.top:8080/live/6JzCUm/867775/46214.m3u8
-
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="Showtime 2 (East)" tvg-logo="https://imgur.com/6l8mJJN.png" group-title="Movies Channel",Showtime 2 (East)
-http://xxip25.top:8080/live/6JzCUm/867775/13219.m3u8
-
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="Showtime Extreme (East)" tvg-logo="https://imgur.com/2SGHMdG.png" group-title="Movies Channel",Showtime Extreme (East)
-http://xxip25.top:8080/live/6JzCUm/867775/13220.m3u8
-
-#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="Showtime Family Zone (East) " tvg-logo="https://imgur.com/wgUqI9y.png" group-title="Movies Channel",Showtime Family Zone (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/13481.m3u8
-
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="Showtime Women (East) " tvg-logo="https://imgur.com/wgUqI9y.png" group-title="Movies Channel",Showtime Women (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/17778.m3u8
-
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz Cinema (East)" tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies Channel",Starz Cinema (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/9301.m3u8
-
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="Starz East" tvg-logo="https://imgur.com/Va3yQdk.png" group-title="Movies Channel",Starz East
-http://xxip25.top:8080/live/6JzCUm/867775/9299.m3u8
-
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="Starz Encore Westerns (East)" tvg-logo="https://imgur.com/z7wJ0ft.png" group-title="Movies Channel",Starz Encore Westerns (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/16263.m3u8
-
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="Starz in Black (East)" tvg-logo="https://imgur.com/z3AqECW.png" group-title="Movies Channel",Starz in Black (East) 
-http://xxip25.top:8080/live/6JzCUm/867775/17779.m3u8
-
-#EXTINF:-1 tvg-id="starzwest.us" tvg-name="Starz West" tvg-logo="https://imgur.com/6KHyFTm.png" group-title="Movies Channel",Starz West
-http://xxip25.top:8080/live/6JzCUm/867775/21091.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/lKP9okBAtcBYHPNb24LQJqoAMCo.jpg" group-title="Vivamax", Deep Inside - Angeli Khang (2025)
+https://gstream.hollymoviehd.cc/streamsvr/ZqeHKkC2u7/0-3?e=S04yMmQ0RHhCRGNzTFNOa2VFbzlVS2NNYTJiWjd5UERKM1BEZ0NnVnpjZz0A
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/72iBQcLM4ZxJgoyLzl7eNxGfPC.jpg" group-title="Vivamax", Ang Pamumukadkad Ni Mirasol (2025)
+https://gstream.hollymoviehd.cc/streamsvr/h0er-78aTX/0-4?e=UWRNbTlmYkZsSE44L0t3VTN3SXR1d2ZlcVY0aFNmWTJ4TW54Y0M3ckVhZz0I
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xnrGqTuLJoZv8icTDpAiLbYAi5F.jpg" group-title="Vivamax", The Jowa Collector (2025)
+https://gstream.hollymoviehd.cc/streamsvr/Qs79KJCgMZ/0-0?e=clBvTWJCRjNicGFrTW9XQmNYQnNPVzZKM1NsZUdIa05ybXF5R0RsNEtOND0U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg" group-title="Vivamax", Ligaw (2025)
+https://gstream.hollymoviehd.cc/streamsvr/kFM1-qDbcS/0-5?e=VnhZaE1hRnFtZ21ubUNMWW1WcFBQb0ZVTmNmOHFSd0YxWmlxV3ppTFJTOD0E
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/e4fiTUtkvvp7REZRhHA7DTXcMxj.jpg" group-title="Vivamax", Rapsa (2025)
+https://gstream.hollymoviehd.cc/streamsvr/Pc74DWSf6t/0-5?e=OXNJVVJhS3pxb1M5QTNZT0c1NkVibTkyMDZQSm1pRFMzOGxmNm1YRWkybz0A
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/vdhLdZQdvllHW5PR7lCmiB6z1Ig.jpg" group-title="Vivamax", Sabik (2025)
+https://gstream.hollymoviehd.cc/streamsvr/AggoWAMs9E/0-4?e=M3Y2L2lpSzhUU1ROUEI2cXk0VjNnK2REdzU1ZkRGQjlBNkEvQWxhN2IzND0O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5ghYHjFdnf2QvEHawU7SfG50Z1y.jpg" group-title="Vivamax", Tampipi (2025)
+https://gstream.hollymoviehd.cc/streamsvr/ohmsXE64vD/0-4?e=WkRVYW9tSmtZR0tybFZIR2dGNHhtdGEzb2VoTEo4ZHpFREluZHlVRnhGaz0A
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u9McUubbCryR9l2816AIYGPICpn.jpg" group-title="Vivamax", Violet (2025)
+https://gstream.hollymoviehd.cc/streamsvr/3lI1sYpGtJ/0-4?e=RGczK3JWM0V6dDJJU2VWTTlQeW5IbVY5NHZYZEV0Z2dabXJLL3JGV3RZTT0O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ctW36O4SZh08TWrEo7ewPDypfB2.jpg" group-title="Vivamax", Bangkera (2025)
+https://gstream.hollymoviehd.cc/streamsvr/7L6fbaa8am/0-4?e=R1c4MjhYa0x4b2hvL0NMMzhzSXNJQWt5czNUVDlUTStqNzllaWkvdXArTT0U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ry9AWnoAABgxAEzc3BwLHgf1H1b.jpg" group-title="Vivamax", Puri for Rent (2025)
+https://gstream.hollymoviehd.cc/streamsvr/kMvfWYflRt/0-4?e=aTJqWEYyZzBmYzZkRllhZ1Z1d2o4Y0ZyM2NWV21zWWhMOTFtQUZYZnA2VT0A
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1Pqnk5rLEHdV9bfTbeCU3vXHFYW.jpg" group-title="Vivamax", Habal (2025)
+https://gstream.hollymoviehd.cc/streamsvr/TJzzobwZ0w/0-2?e=RVV0UHBlL2hmUDdvczNtS2pLUVA3WUtRckhDWkM5dkNmcmR5OGRSYVIvbz0I
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/uTcNSqa2XgouS8cZ2eoyc93QVgC.jpg" group-title="Vivamax", Arouse (2025)
+https://gstream.hollymoviehd.cc/streamsvr/iRyWzi6FfS/0-3?e=V1kvRmJaQXBDWDZMQXhNNlZNWDZPTE5FSXQ0QTFIL0gxck9oWU1ob3JlWT0U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qEL2ZmXKJZn5QvQc6NwuHEcK999.jpg" group-title="Vivamax", Delusyon (2025)
+https://gstream.hollymoviehd.cc/streamsvr/Ko7fPCWNVf/0-2?e=Mmh1Y1pFS3lMY0NaVUx3bXRhNkk2cVdlUDJpaXgwYW9lVHE4WkNLTEROOD0I
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4Q0eicxd5fq9llcoY2Mf8uUEE5r.jpg" group-title="Vivamax", Elevator Lady (2025)
+https://gstream.hollymoviehd.cc/streamsvr/MvM7V7w9js/0-5?e=ZGhJdmxxQW9MMUhRZElpU0J3U1BLSDU1VDJpcTNrUlZnZW1oVHh3VVZnTT0O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5e1wrLBk0gYOH14vCEhoh5uVp44.jpg" group-title="Vivamax", Malagkit (2025)
+https://gstream.hollymoviehd.cc/streamsvr/cwZZzRRSNF/0-4?e=L2pKdmZQYUY0M3VWeVVDaVg1TlQ5dGRISGZlM1ViVUZLWDIrRjZpWHdudz0U
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/TJ4XqmIJ0I2LONPTLJBkuNwEgN.jpg" group-title="Vivamax", Kolektor (2025)
+https://gstream.hollymoviehd.cc/streamsvr/B1EEV14nwB/0-3?e=UGFNZXd6ekZmMlIzL2gxNzRrSEg0STBBcjNKdS80VWwxMGprdnhPQzUvZz0O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/e0Drt0iLj4K2eO0MexrUfHLfe1S.jpg" group-title="Vivamax", Walker (2025)
+https://gstream.hollymoviehd.cc/streamsvr/FHf4de6N6p/0-2?e=bmt1R3lnMkRpeU5KMU5hUkY3VndVcEU0cGxsTWt3Qmwydk9ZRGo4NG1WST0O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg" group-title="Vivamax", Tokyo Nights (2025)
+https://gstream.hollymoviehd.cc/streamsvr/O7fYRWK16b/0-3?e=THB4TE8xOTQycVdvOHZSNUR1Yi9iQUVRbndQbEQ0SVFCU1FyR2c0R0p4Zz0O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wGkZSwwKA2MBHNkFMpzNnSuqLCF.jpg" group-title="Vivamax", Online Selling (2025)
+https://gstream.hollymoviehd.cc/streamsvr/MPo-CVI0ZD/0-3?e=MU9uejB1eW50VksyWjFxbDRnVWNHZkIybDVDeUM0OVVRQk9oZDVVQm42TT0E
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zPIaNQaQKtCIOs95x4GmaJ6omco.jpg" group-title="Vivamax", Belyas (2025)
+https://gstream.hollymoviehd.cc/streamsvr/chpn24ZKSi/0-4?e=Mk9MNjhaekx6TnNsMFNVNGIxQ2dheGducnJtYURGcU1DN29nUWE0T2hFZz0E
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg" group-title="Vivamax", Sponsor (2025)
+https://gstream.hollymoviehd.cc/streamsvr/RGjJ2WQ0wa/0-0?e=a3dJMTdackxKNjBIcVFoc0F5ZE9tdWZ5aWtDeTlEOEhORVVHSUdqRldWMD0O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/zNHgQRaflknCSRvKFepqvsHVimG.jpg" group-title="Vivamax", Hiram na Sandali (2025)
+https://gstream.hollymoviehd.cc/streamsvr/yb6A03D_w-/0-4?e=a0VsTWdZUWc1YmNzdUlMNHV4OC94RmJXdml1U2ZKS2VCWFVnMXlNNUZNZz0A
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wnMo89oa5VdfS2rmET4yKWoyeig.jpg" group-title="Vivamax", Halimuyak (2025)
+https://gstream.hollymoviehd.cc/streamsvr/6PKtwEuYpJ/0-0?e=U1ZRNnhYaTArNHdPK011Um45elJTNllOcUM5enlaTm05alVyOHZ3YTIxOD0A
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eLCoMknSWjYTb5ObQIAmgzqhgSM.jpg" group-title="Vivamax", Las Ilusyunadas (2025)
+https://gstream.hollymoviehd.cc/streamsvr/4QkkBmrXKB/0-1?e=cTB6aG5lT3BhMkpJcU51K3Z6cjJZZGNvcElPUE1nNzBxZDBBZDAxWEdFYz0I
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/mnP6YvKzZzPrKvgNF3sXsKPGm6q.jpg" group-title="Vivamax", Teacher’s Pet (2025)
+https://gstream.hollymoviehd.cc/streamsvr/xyeS10ybBv/0-4?e=Q2pENWx0MGVabTRYczVVcVZDMk9MRmFLMjBKdG0vK0U3UFF5SVJLMW9NOD0E
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/biLnySNojYUDMVEoWjc7Pjb7n7O.jpg" group-title="Vivamax", Kiss/Kiss (2025)
+https://gstream.hollymoviehd.cc/streamsvr/Kj2AcboVNx/0-1?e=dkRoRzZlK2oyZVlsZFFaOTU1MU05R01LRVNiTFJQU2s0cENjSEFvMThqQT0E
 
 # MOVIES 2025
 
