@@ -78,7 +78,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 #EXTINF:0 tvg-id="" tvg-logo="https://imgur.com/SLE4dR7.png" group-title="Local Channels 🇵🇭",SOLAR FLIX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
-https://converge.vingt.qzz.io/22/dopamine/manifest.mpd
+https://mc-c8hangg503.bunny.run/22/dopamine/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Local Channels 🇵🇭", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
