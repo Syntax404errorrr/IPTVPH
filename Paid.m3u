@@ -510,13 +510,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/defaul
 #KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd
 
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local Channels 🇵🇭", Discovery Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
-
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png",Discovery Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -588,11 +581,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
-
-#EXTINF:0 tvg-id="" tvg-logo="https://imgur.com/804qGFy.png" group-title="Local Channels 🇵🇭", CARTOONITO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313038303239323838303638:7768354e65797950397a6c566d356256
-https://converge.vingt.qzz.io/152/dopamine/manifest.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -719,13 +707,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Local Channels 🇵🇭", KBS World
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
-
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",KBS World
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -749,7 +730,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
-#EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/Mb5ssnu.png",Celestial Movies
+#EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/4JCkzjl.png",Celestial Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -757,7 +738,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-#EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/4JCkzjl.png", Celestial Classic Movies
+#EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://imgur.com/8oaxQ3b.png", Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
@@ -771,13 +752,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
-
-#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Local Channels 🇵🇭",Crime & Investigation
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
   
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",Crime & Investigation
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -862,14 +836,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
-
-#EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png", CNN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v34bl1VcSst0VfcRsqn/Fg","kid":"G2GKKRzs5EyYRd3fxP2bEA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://imgur.com/5DcKa7N.png" ,CNBC Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1703,58 +1669,58 @@ http://tvmate.icu:8080/movie/awbCZ9/280249/227226.mp4
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="PH RADIO",87.5 Republika FM1
 https://stream.zeno.fm/qnt98p5m108uv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89.1 AWR Manila
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="PH RADIO",89.1 AWR Manila
 http://192.53.113.120:8000/stream?type=.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Ph Live Radio",89.9 Magic
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="PH RADIO",89.9 Magic
 https://stream.zeno.fm/sh37pvfd938uv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="Ph Live Radio",90.7 Love Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="PH RADIO",90.7 Love Radio
 https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="Ph Live Radio",91.5 Win Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="PH RADIO",91.5 Win Radio
 https://stream.zeno.fm/nz4ydgnu6hhvv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="Ph Live Radio",92.3 FM RADIO Manila
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="PH RADIO",92.3 FM RADIO Manila
 http://us1.amfmph.com:8872/stream?type=.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Ph Live Radio",93.1 Monster Radio RX 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="PH RADIO",93.1 Monster Radio RX 
 https://in-icecast.eradioportal.com:8443/monsterrrx
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Ph Live Radio",95.5 Eagle FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="PH RADIO",95.5 Eagle FM
 http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="Ph Live Radio",96.3 Easy Rock
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="PH RADIO",96.3 Easy Rock
 https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/669/dyrk-963-wrock.b988c09b.png" group-title="Ph Live Radio",96.3 WRocK
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/669/dyrk-963-wrock.b988c09b.png" group-title="PH RADIO",96.3 WRocK
 https://wrockceb-iradioph.radioca.st/;?1764388585887
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="Ph Live Radio",97.9 Home Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="PH RADIO",97.9 Home Radio
 https://hrmanila.radioca.st/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="Ph Live Radio",98.7 The Master's Touch
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="PH RADIO",98.7 The Master's Touch
 http://sg-icecast.eradioportal.com:8000/febc_dzfe
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="PH RADIO",101.1 Yes Fm
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s120158/images/logog.png?t=162748" group-title="Ph Live Radio",100.3 RJ FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s120158/images/logog.png?t=162748" group-title="PH RADIO",100.3 RJ FM
 https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="PH RADIO",102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/1035-k-lite.e3e0d2a2.png" group-title="Ph Live Radio",103.5 All Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/1035-k-lite.e3e0d2a2.png" group-title="PH RADIO",103.5 All Radio
 http://103.36.17.18:8000/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="Ph Live Radio",104.3 Capital FM2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="PH RADIO",104.3 Capital FM2
 http://122.53.138.32:8000/dwbr.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="PH RADIO",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 
