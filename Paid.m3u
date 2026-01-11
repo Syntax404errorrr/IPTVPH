@@ -59,9 +59,7 @@ https://gma.mikuy30.dpdns.org/7/gma7.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://imgur.com/JUeIAXr.png" group-title="Local Channels 🇵🇭", GTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
-https://mc-c8hangg503.bunny.run/27/dopamine/manifest.mpd
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Local Channels 🇵🇭", IBC 13
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -76,14 +74,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/inde
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://imgur.com/SLE4dR7.png" group-title="Local Channels 🇵🇭",SOLAR FLIX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
-https://mc-c8hangg503.bunny.run/22/dopamine/manifest.mpd
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:0 tvg-id="" tvg-logo="https://imgur.com/N7pAdUg.png" group-title="Local Channels 🇵🇭",ALL TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
-https://mc-c8hangg503.bunny.run/4/dopamine/manifest.mpd
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Local Channels 🇵🇭", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
